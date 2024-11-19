@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: arial, sans-serif;
+    font-size: 12px;
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1#logo {
+    height: 500px;
+    width: 338px;
+    background: url(https://www.edigitalagency.com.au/wp-content/uploads/google-logo-png-transparent-background-large-new.png) top left no-repeat;
+    background-size: 100%;
+    text-indent: -99999px;
+    margin: 0 auto;
+}
+
+input[type="search"] {
+    width: 570px;
+    padding: 6px;
+}
